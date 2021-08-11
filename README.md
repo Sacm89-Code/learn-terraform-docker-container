@@ -1,2 +1,2 @@
 Tutorial de terraform:
-https://learn.hashicorp.com/tutorials/terraform/install-cli
+https://learn.hashicorp.com/tutorials/terraform/docker-build?in=terraform/docker-get-started
